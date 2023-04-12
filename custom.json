@@ -49,6 +49,8 @@
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
+        "BACKGROUND_MENTIONED": [
+            "EE4B2B"
         ],
         "BACKGROUND_ACCENT": [
             "#1a1a1a"
