@@ -1,9 +1,9 @@
 {
-    "name": "Rogue+",
-    "description": "when dark grey isn't enough (AMOLED/Black version of Rogue)",
+    "name": "red&black",
+    "description": ":troll:)",
     "authors": [
         {
-            "name": "Λrtful",
+            "name": "no",
             "id": "612070016845742083"
         }
     ],
@@ -93,7 +93,7 @@
             "#a80820"
         ],
         "CHANNEL_ICON": [
-            "#b32b2b"
+            "#7a1010"
         ]
     },
     "rawColors": {
