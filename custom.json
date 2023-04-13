@@ -64,8 +64,13 @@
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
+        ],   
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#4D0000"
         ],
-
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4F0000"
+        ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000" 
         ],
