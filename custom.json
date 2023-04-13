@@ -72,13 +72,7 @@
             "#263238"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#1a1a1a"
-        ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
+            "#000000" 
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#999999"
