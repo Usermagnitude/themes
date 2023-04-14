@@ -30,7 +30,7 @@
             "#ad092a"
         ],
         "INTERACTIVE_HOVER": [
-            "#b51031"
+            "#006DFF"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ebebeb"
@@ -103,9 +103,9 @@
         "BRAND_500": "#a80820",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "YELLOW_300": "#810000",
-        "GREEN_360": "#810000",
-        "RED_400": "810000"
+        "YELLOW_300": "#006DFF",
+        "GREEN_360": "#006DFF",
+        "RED_400": "006DFF"
     },
     "spec": 2
 }
