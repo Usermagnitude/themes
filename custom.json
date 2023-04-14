@@ -27,7 +27,7 @@
             "#a80820"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ad092a"
+            "#006DFF"
         ],
         "INTERACTIVE_HOVER": [
             "#006DFF"
@@ -84,7 +84,7 @@
             "#999999"
         ],
         "CHANNEL_ICON": [
-            "#810000"
+            "#006DFF"
         ]
     },
     "rawColors": {
