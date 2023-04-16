@@ -1,8 +1,9 @@
-    "name": "red&black",
-    "description": "remake of my favourite theme",
+{
+    "name": "Rogue+",
+    "description": "when dark grey isn't enough (AMOLED/Black version of Rogue)",
     "authors": [
         {
-            "name": "ProbablyDark",
+            "name": "Λrtful",
             "id": "612070016845742083"
         }
     ],
@@ -20,19 +21,16 @@
             "#999999"
         ],
         "TEXT_LINK": [
-            "#00BFFF"
+            "#a80820"
         ],
         "TEXT_DANGER": [
             "#a80820"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ad092a"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#b51031"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ebebeb"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#4c4c4c"
@@ -63,15 +61,24 @@
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
-        ],   
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#a8082033"
+        ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#4D0000"
+            "#a8082033"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4F0000"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000" 
+            "#000000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#1a1a1a"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#999999"
@@ -82,13 +89,16 @@
         "CHANNELS_DEFAULT": [
             "#999999"
         ],
+        "TEXT_LINK": [
+            "#a80820"
+        ],
         "CHANNEL_ICON": [
-            "#810000"
+            "#a80820"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#000000",
+        "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#999999",
         "PRIMARY_500": "#999999",
@@ -102,9 +112,13 @@
         "BRAND_500": "#a80820",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "YELLOW_300": "#810000",
-        "GREEN_360": "#810000",
-        "RED_400": "810000"
+        "BLUE_345": "#a80820",
+        "YELLOW_300": "#a80820",
+        "ORANGE_345": "#a80820",
+        "GREEN_345": "#a80820",
+        "GREEN_360": "#a80820",
+        "RED_560" : "#a80820",
+        "RED_400": "#a80820"
     },
-    "spec": 2
+  "spec": 2
 }
