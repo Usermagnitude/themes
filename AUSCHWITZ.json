@@ -1,10 +1,10 @@
 {
-    "name": "blahblah",
-    "description": "when dark grey isn't enough (AMOLED/Black version of Rogue)",
+    "name": "Amoled Orange Mountains",
+    "description": "A Amoled version of Orange Mountains theme. DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": ".....",
-            "id": "612070016845742083"
+            "name": "Wizzy#0211",
+            "id": "715443625580036128"
         }
     ],
     "semanticColors": {
@@ -12,28 +12,28 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#999999"
+            "#ed6a19"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#999999"
+            "#ed6a19"
         ],
         "TEXT_LINK": [
-            "#63B1FF"
+            "#ed6a19"
         ],
         "TEXT_DANGER": [
-            "#63B1FF"
+            "#ed6a19"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF5700"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#4c4c4c"
+            "#808080"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#1a1a1a"
+            "#ed6a19"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -63,19 +63,19 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#622B00"
+            "#e6ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FF5400"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1a1a1a"
+            "#ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#1a1a1a"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -87,35 +87,45 @@
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#999999"
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#ed6a19"
         ],
         "CHANNEL_ICON": [
-            "#FF5700"
+            "#ffffff"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#999999",
-        "PRIMARY_500": "#999999",
+        "PRIMARY_360": "#ed6a19",
+        "PRIMARY_500": "#ed6a19",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#FF5700",
-        "BRAND_360": "#FF5700",
-        "BRAND_500": "#FF5700",
+        "BRAND_260": "#ed6a19",
+        "BRAND_360": "#ed6a19",
+        "BRAND_500": "#ed6a19",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#63B1FF",
-        "YELLOW_300": "#FF5700",
-        "ORANGE_345": "#FF5700",
-        "GREEN_345": "#FF5700",
-        "GREEN_360": "#FF5700",
-        "RED_560" : "#FF5700",
-        "RED_400": "#FF5700"
+        "BLUE_345": "#ed6a19",
+        "YELLOW_300": "#ed6a19",
+        "ORANGE_345": "#ed6a19",
+        "GREEN_345": "#ed6a19",
+        "GREEN_360": "#ed6a19",
+        "RED_560" : "#ed6a19",
+        "RED_400": "#ed6a19"
     },
-  "spec": 2
+    "spec": 2,
+    "background": {
+        "blur": 0.6,
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/AmoledOrangeMountains/wallpaper.png",
+        "alpha": 0.5,
+        "color": "#000000"
+    }
 }
+
