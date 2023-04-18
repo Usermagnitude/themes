@@ -27,7 +27,7 @@
             "#a80820"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#FFB100"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
@@ -51,7 +51,7 @@
             "#1a1a1a"
         ],
         "BACKGROUND_FLOATING": [
-            "#FFB100"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
