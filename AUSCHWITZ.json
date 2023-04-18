@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#a80820"
+            "#FF5700"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#a80820"
@@ -93,7 +93,7 @@
             "#a80820"
         ],
         "CHANNEL_ICON": [
-            "#a80820"
+            "#FF5700"
         ]
     },
     "rawColors": {
